@@ -1,0 +1,7 @@
+/* Write your code here. */
+.selected {
+  opacity: 0.5;
+}
+.not-selected {
+  opacity: 0;
+}
